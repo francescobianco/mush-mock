@@ -4,7 +4,7 @@
 
 ## What is this?
 
-**Mush Mock Registry** is a collection of lightweight mock packages designed for [Mush](https://github.com/javanile/mush). Each package simulates the behavior of common CLI tools like `kubectl`, `docker`, or `terraform`—without executing any real side effects.
+**Mush Mock Registry** is a collection of lightweight mock packages designed for [Mush](https://github.com/javanile/mush). Each package simulates the behavior of common CLI tools like `kubectl`, `docker`, or `terraform`; without executing any real side effects.
 
 These mocks were born from real-world needs during the development and testing of shell-based CI/CD pipelines. When you're scripting infrastructure processes, the ability to simulate a tool's behavior can dramatically simplify testing, reduce setup time, and avoid unintended consequences.
 
