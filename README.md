@@ -1,3 +1,5 @@
+[![Idea](https://raw.githubusercontent.com/francescobianco/idea/refs/heads/main/idea.svg)](https://github.com/francescobianco/mush-mock/issues/new)
+
 # 🧪 Mush Mock Registry
 
 ## What is this?
