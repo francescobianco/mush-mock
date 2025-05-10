@@ -67,12 +67,6 @@ mush install kubectl-mock
 
 Once installed, the `kubectl` command becomes available in your scripts, returning mock responses suitable for testing.
 
-You can install multiple mocks as needed:
-
-```bash
-mush install docker-mock terraform-mock
-```
-
 ## 🔗 Learn More
 
 * [Mush Project](https://github.com/javanile/mush) – Minimalist package manager for Bash environments
